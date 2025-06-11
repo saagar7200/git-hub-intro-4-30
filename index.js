@@ -20,3 +20,13 @@ var z = 30
 console.log(x,z)
 
 
+// git status
+// git add <file>
+// git commit -m "<message>"
+// wd -> staging_area -> local repo.
+// git branch
+// git branch <branch_name>
+// git switch <branch_name>
+// git checkout -b <branch_name> // to create new branch and checkout
+// git checkout <branch_name> 
+
